@@ -13,5 +13,4 @@ results = model(source=0, show=True, conf=0.3, save=True)
 #while True:
     #results = model(source="https://www.youtube.com/watch?v=Mol0lrRBy3g", show=True)
 
-#while True:
-    #results = tiger_model.predict(source="https://youtu.be/MIBAT6BGE6U", show=True)
+#results = tiger_model(source="https://www.youtube.com/watch?v=JMsCJhGtPKM", show=True)
