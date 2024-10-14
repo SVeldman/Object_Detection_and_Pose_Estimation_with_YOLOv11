@@ -13,7 +13,7 @@ We will begin by providing a basic background in the fundamentals of the YOLO al
 Using the presenter’s live webcam feed, we will see how both the object detection and pose estimation models work in real-time. This will demonstrate both the functionality of these tools as well as the limitations of the out-of-the-box pretrained models. We will also take a brief look at the source code of the Ultralytics python library to see how the pose estimation model builds upon the existing architecture of the object detection model to produce the additional keypoint predictions (as well as the standard bounding boxes).
 
 ### Code Examples and Applications
-Finally, we will work through three notebooks to gain hands-on experience applying these tools. Code will be provided in advance through a GitHub repository, and all necessary datasets will be integrated directly through the Ultralytics and HuggingFace APIs.
+Finally, we will work through three notebooks to gain hands-on experience applying these tools. All code is available in advance through this GitHub repository, and all necessary datasets and model downloads have been integrated directly through the Ultralytics and HuggingFace APIs.
 
 #### Attendees will leave understanding how to:
 -	Use pretrained object detection and pose estimation models to run inference on new datasets (previously unseen to the models).
